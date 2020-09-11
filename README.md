@@ -1,5 +1,5 @@
-# fullstack
-
+# vuejs-graphql-nodejs
+This's a simple application using vuejs-graphql-nodejs
 ## Project setup
 ```
 yarn install
