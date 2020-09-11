@@ -1,5 +1,5 @@
 # vuejs-graphql-nodejs
-This's a simple application using vuejs-graphql-nodejs
+This's a simple application using Vuejs,Graphql and Nodejs
 ## Project setup
 ```
 yarn install
